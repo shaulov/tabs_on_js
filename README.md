@@ -1,7 +1,7 @@
 # tabs_on_js
 
 How it works?
-Put all tabs in variable 'tab' through their selector
+Put all tabs in variable 'tab' through their selector \n
 Put container with tabs in variable 'info' through selector
 Put blocks with content from tabs in variable 'tabContent' through their selector
 And use it!
