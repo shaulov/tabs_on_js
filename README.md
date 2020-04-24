@@ -1,4 +1,4 @@
-# tabs_on_js
+# Tabs on JavaScript
 
 ## How it works?
 
